@@ -1,0 +1,8 @@
+faiss-cpu
+sentence-transformers
+transformers
+torch
+gradio
+tqdm
+requests
+numpy

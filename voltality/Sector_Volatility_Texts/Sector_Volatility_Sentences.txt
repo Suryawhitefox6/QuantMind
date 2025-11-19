@@ -1,0 +1,14 @@
+The sector NIFTY 50 had a historical annualized volatility of 20.87% and a GARCH(1,1) estimated annualized volatility of 18.32%.
+The sector NIFTY AUTO had a historical annualized volatility of 22.81% and a GARCH(1,1) estimated annualized volatility of 21.56%.
+The sector NIFTY BANK had a historical annualized volatility of 27.81% and a GARCH(1,1) estimated annualized volatility of 25.18%.
+The sector NIFTY CHEMICALS had a historical annualized volatility of 21.59% and a GARCH(1,1) estimated annualized volatility of 20.05%.
+The sector NIFTY CONSUMER DURABLES had a historical annualized volatility of 23.42% and a GARCH(1,1) estimated annualized volatility of 21.64%.
+The sector NIFTY FINANCIAL SERVICES had a historical annualized volatility of 27.00% and a GARCH(1,1) estimated annualized volatility of 24.20%.
+The sector NIFTY FMCG had a historical annualized volatility of 18.51% and a GARCH(1,1) estimated annualized volatility of 17.54%.
+The sector NIFTY IT had a historical annualized volatility of 24.52% and a GARCH(1,1) estimated annualized volatility of 23.20%.
+The sector NIFTY MEDIA had a historical annualized volatility of 28.00% and a GARCH(1,1) estimated annualized volatility of 26.80%.
+The sector NIFTY METAL had a historical annualized volatility of 32.07% and a GARCH(1,1) estimated annualized volatility of 30.33%.
+The sector NIFTY PHARMA had a historical annualized volatility of 19.53% and a GARCH(1,1) estimated annualized volatility of 18.66%.
+The sector NIFTY PRIVATE BANK had a historical annualized volatility of 28.59% and a GARCH(1,1) estimated annualized volatility of 25.38%.
+The sector NIFTY PSU BANK had a historical annualized volatility of 34.45% and a GARCH(1,1) estimated annualized volatility of 33.29%.
+The sector NIFTY REALTY had a historical annualized volatility of 39.25% and a GARCH(1,1) estimated annualized volatility of 36.69%.

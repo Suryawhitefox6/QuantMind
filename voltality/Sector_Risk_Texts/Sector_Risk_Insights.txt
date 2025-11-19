@@ -1,0 +1,27 @@
+Sector NIFTY 50: Mean daily return is 0.05% with daily volatility of 1.31% and annualized return of 12.94% with annualized volatility 20.87% . Value at Risk (5%) is -1.89% and Conditional VaR (5%) is -3.11% . Maximum drawdown observed is -59.86% over 746 days . Sharpe ratio is 0.62  and Sortino ratio is 0.80.
+
+Sector NIFTY AUTO: Mean daily return is 0.06% with daily volatility of 1.44% and annualized return of 16.61% with annualized volatility 22.81% . Value at Risk (5%) is -2.18% and Conditional VaR (5%) is -3.28% . Maximum drawdown observed is -62.38% over 959 days . Sharpe ratio is 0.73  and Sortino ratio is 1.00.
+
+Sector NIFTY BANK: Mean daily return is 0.06% with daily volatility of 1.75% and annualized return of 17.44% with annualized volatility 27.81% . Value at Risk (5%) is -2.64% and Conditional VaR (5%) is -4.06% . Maximum drawdown observed is -68.78% over 633 days . Sharpe ratio is 0.63  and Sortino ratio is 0.85.
+
+Sector NIFTY CHEMICALS: Mean daily return is 0.08% with daily volatility of 1.36% and annualized return of 21.24% with annualized volatility 21.59% . Value at Risk (5%) is -2.08% and Conditional VaR (5%) is -3.28% . Maximum drawdown observed is -70.92% over 659 days . Sharpe ratio is 0.98  and Sortino ratio is 1.24.
+
+Sector NIFTY CONSUMER DURABLES: Mean daily return is 0.07% with daily volatility of 1.48% and annualized return of 19.82% with annualized volatility 23.42% . Value at Risk (5%) is -2.21% and Conditional VaR (5%) is -3.52% . Maximum drawdown observed is -80.21% over 1177 days . Sharpe ratio is 0.85  and Sortino ratio is 1.09.
+
+Sector NIFTY FINANCIAL SERVICES: Mean daily return is 0.07% with daily volatility of 1.70% and annualized return of 18.42% with annualized volatility 27.00% . Value at Risk (5%) is -2.52% and Conditional VaR (5%) is -3.98% . Maximum drawdown observed is -69.99% over 653 days . Sharpe ratio is 0.68  and Sortino ratio is 0.91.
+
+Sector NIFTY FMCG: Mean daily return is 0.06% with daily volatility of 1.17% and annualized return of 15.76% with annualized volatility 18.51% . Value at Risk (5%) is -1.72% and Conditional VaR (5%) is -2.64% . Maximum drawdown observed is -35.64% over 560 days . Sharpe ratio is 0.85  and Sortino ratio is 1.18.
+
+Sector NIFTY IT: Mean daily return is 0.05% with daily volatility of 1.54% and annualized return of 14.10% with annualized volatility 24.52% . Value at Risk (5%) is -2.32% and Conditional VaR (5%) is -3.61% . Maximum drawdown observed is -65.66% over 715 days . Sharpe ratio is 0.58  and Sortino ratio is 0.79.
+
+Sector NIFTY MEDIA: Mean daily return is 0.01% with daily volatility of 1.76% and annualized return of 3.59% with annualized volatility 28.00% . Value at Risk (5%) is -2.71% and Conditional VaR (5%) is -4.14% . Maximum drawdown observed is -79.26% over 2141 days . Sharpe ratio is 0.13  and Sortino ratio is 0.17.
+
+Sector NIFTY METAL: Mean daily return is 0.05% with daily volatility of 2.02% and annualized return of 13.70% with annualized volatility 32.07% . Value at Risk (5%) is -3.14% and Conditional VaR (5%) is -4.72% . Maximum drawdown observed is -78.36% over 3300 days . Sharpe ratio is 0.43  and Sortino ratio is 0.59.
+
+Sector NIFTY PHARMA: Mean daily return is 0.05% with daily volatility of 1.23% and annualized return of 14.44% with annualized volatility 19.53% . Value at Risk (5%) is -1.84% and Conditional VaR (5%) is -2.76% . Maximum drawdown observed is -53.49% over 1505 days . Sharpe ratio is 0.74  and Sortino ratio is 1.03.
+
+Sector NIFTY PRIVATE BANK: Mean daily return is 0.07% with daily volatility of 1.80% and annualized return of 19.79% with annualized volatility 28.59% . Value at Risk (5%) is -2.62% and Conditional VaR (5%) is -4.20% . Maximum drawdown observed is -74.65% over 637 days . Sharpe ratio is 0.69  and Sortino ratio is 0.92.
+
+Sector NIFTY PSU BANK: Mean daily return is 0.05% with daily volatility of 2.17% and annualized return of 13.75% with annualized volatility 34.45% . Value at Risk (5%) is -3.30% and Conditional VaR (5%) is -4.68% . Maximum drawdown observed is -79.78% over 3197 days . Sharpe ratio is 0.40  and Sortino ratio is 0.60.
+
+Sector NIFTY REALTY: Mean daily return is 0.03% with daily volatility of 2.47% and annualized return of 7.49% with annualized volatility 39.25% . Value at Risk (5%) is -3.90% and Conditional VaR (5%) is -5.85% . Maximum drawdown observed is -93.17% over 4345 days . Sharpe ratio is 0.19  and Sortino ratio is 0.26.
